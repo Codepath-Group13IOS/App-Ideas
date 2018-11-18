@@ -84,7 +84,7 @@
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+
 ![alt text](https://user-images.githubusercontent.com/42664413/48666769-e5613f00-ea7c-11e8-97df-411ac5246e1c.png)
 ---
 
