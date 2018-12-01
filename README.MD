@@ -86,7 +86,7 @@
 ### Wireframes
 
 ![alt text](https://github.com/Codepath-Group13IOS/App-Ideas/blob/master/Screen%20Shot%202018-12-01%20at%202.36.15%20PM.png)
-![Alt Text](http://g.recordit.co/jlC9vva9ZZ.gif)
+![Alt Text](http://recordit.co/6EoZzJyNHx.gif)
 ---
 
 ### App Pitch Presentation
