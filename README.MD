@@ -90,4 +90,4 @@
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1T1hfFzoNepBZufkrWcWRFw_lsdPQ89PS-5i6O_OP8o8/edit?usp=sharing
